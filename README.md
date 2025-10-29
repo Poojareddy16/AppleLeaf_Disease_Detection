@@ -2,7 +2,6 @@
 # 🍎 Apple Leaf Disease Detection  
 
 Detect diseases in apple leaves using deep learning (PyTorch + Streamlit).  
-This project is adapted from the repository [Poojareddy16/AppleLeaf_Disease_Detection](https://github.com/Poojareddy16/AppleLeaf_Disease_Detection).
 
 ---
 
